@@ -14,10 +14,11 @@
 </br>
 </br>
 4. 프로필 화면
+5. </br>
 <img width="588" alt="스크린샷 2023-05-29 오후 4 37 38" src="https://github.com/dpcks0509/YaeChan_Park/assets/102402485/a84e2130-8ca2-43fb-ae0d-2de76b449dae">
 </br>
-5. 포스트 화면
 </br>
+5. 포스트 화면
 </br>
 <img width="594" alt="스크린샷 2023-05-29 오후 4 38 16" src="https://github.com/dpcks0509/YaeChan_Park/assets/102402485/4241cf9d-7dd4-4a2d-bfcb-f7da3b74ea65">
 </br>
