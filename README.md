@@ -14,7 +14,7 @@
 </br>
 </br>
 4. 프로필 화면
-5. </br>
+</br>
 <img width="588" alt="스크린샷 2023-05-29 오후 4 37 38" src="https://github.com/dpcks0509/YaeChan_Park/assets/102402485/a84e2130-8ca2-43fb-ae0d-2de76b449dae">
 </br>
 </br>
