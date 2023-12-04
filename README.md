@@ -22,8 +22,3 @@
 5. 포스트 화면
 </br>
 <img width="594" alt="스크린샷 2023-05-29 오후 4 38 16" src="https://github.com/dpcks0509/YaeChan_Park/assets/102402485/4241cf9d-7dd4-4a2d-bfcb-f7da3b74ea65">
-</br>
-</br>
-</br>
-</br>
-부록. 일부 기능 및 디자인이 완성되지않아 사진과 다를 수 있습니다. 추후에 개발해서 업데이트 예정입니다.
